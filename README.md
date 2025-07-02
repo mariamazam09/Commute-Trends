@@ -21,34 +21,47 @@ To conduct analysis, two datasets from US Census Bureau were used. The main data
 The second supplementary dataset has information on household income across counties.
 
 ## Key Analytical Findings
-🔹 1. Geographical Trends
+### 🔹 1. Geographical Trends
 
 ➤ Driving Alone Dominates Across All Regions
+
 The vast majority of people, over 75%, commute by driving alone. This holds true across nearly all regions, making solo driving the most dominant commute choice.
+
 Carpooling ranks second but is used by a much smaller share.
 
 ➤ Transit Usage Doesn’t Always Align with Population Size
-When we look at the top 10 most populated regions, we notice something interesting. Even though Southern California has the highest population, public transit use there is lower than in the Bay Area.
+
+When we look at the top 10 most populated regions, we notice something interesting. 
+
+Even though Southern California has the highest population, public transit use there is lower than in the Bay Area.
+
 This tells us that population size alone doesn’t determine transit usage. Factors like infrastructure, connectivity, and trust likely play a bigger role
 
-🔹 2. Demographic Trends
+### 🔹 2. Demographic Trends
 
 ➤ African Americans Have the Highest Transit Use
+
 African Americans have the highest rate of public transit use, while the White population has the lowest.
 
-🔹 3. Socioeconomic Patterns | Income
+### 🔹 3. Socioeconomic Patterns | Income
 
 ➤ Driving Alone Is Common Across All Income Levels
-The assumption was for lower-income groups to rely more on public transit, but the data showed otherwise. Across all income levels, driving alone remains the most common choice.
+
+The assumption was for lower-income groups to rely more on public transit, but the data showed otherwise. 
+
+Across all income levels, driving alone remains the most common choice.
+
 Surprisingly, low- and middle-income groups are more likely to walk than use public transit.
 
-🔹 4. Shifting Commute Modes Over Time 
+### 🔹 4. Shifting Commute Modes Over Time 
 
 ➤ Carpooling and Walking Decline, Public Transit Stagnates
+
 Carpooling and walking have steadily declined since 2000. Public transit, meanwhile, has remained largely stagnant, showing little to no growth over a full decade.
+
 These patterns suggest that alternative modes are losing traction, and public transit has failed to gain momentum
 
-🔹 What the Data Reveals:
+## What the Data Reveals:
 Here are three key insights the analysis revealed:
 - Driving alone dominates, regardless of region, income, or population size, making it the default mode of transport.
 - Public transit remains underused, even by low-income groups, highlighting systemic and behavioral barriers.
