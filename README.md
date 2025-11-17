@@ -71,14 +71,7 @@ Here are three key insights the analysis revealed:
 Now that we’ve looked at past trends, let’s briefly compare how California and Bahrain have evolved in more recent years.
 - In California, transit ridership has continued to decline even after 2010. This is mostly due to rising car ownership, the growth of ride-hailing services, and shifting residential patterns, all of which made transit less appealing.
 - In contrast, Bahrain has been making progress. The government has expanded its bus network, upgraded terminals, and improved service frequency. But despite these efforts, public adoption remains low, largely due to issues like walkability, weather, comfort, and lack of public awareness.
-
-## Public Transit Coverage – California vs. Bahrain
-![image](https://github.com/user-attachments/assets/1988fc97-b8a0-4344-8d82-d3083c3d830b)
-California’s coverage is widespread but still underutilized.
-
-![image](https://github.com/user-attachments/assets/77bbeb21-5b54-4b2b-b534-0f86a116bc92)
-while Bahrain’s network is more limited, especially in reaching residential zones.
-This contrast highlights the gap between infrastructure availability and actual usability, which ties back to public behavior and accessibility.
+- California’s transit coverage is widespread but still underutilized while Bahrain’s network is more limited, especially in reaching residential zones. This contrast highlights the gap between infrastructure availability and actual usability, which ties back to public behavior and accessibility.
 
 ## Online Voices on Bahrain Public Transport
 Since there was no official sentiment data, public conversations on platforms like Reddit were reviewed. 
