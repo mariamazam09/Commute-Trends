@@ -17,8 +17,8 @@ California has varying commuting choices across regions and ethnic groups, raisi
 4. Extract Insights Applicable to Bahrain Transportation Goals
 
 ## Dataset Overview
-To conduct analysis, two datasets from US Census Bureau were used. The main dataset that covers most of the analysis has features i.e., report year, geography, ethnicity, commute modes, and population. The data covers the years 2000, and 2005-2010, and it has information on commute modes used by people 16 aged and older - which is the minimum eligible driving age in California.
-The second supplementary dataset has information on household income across counties.
+To conduct analysis, two datasets from US Census Bureau were used. The main dataset [Link: California Commuting Mode Choice](https://www.kaggle.com/datasets/thedevastator/california-commuting-mode-choice-from-2000-2010) that covers most of the analysis has features i.e., report year, geography, ethnicity, commute modes, and population. The data covers the years 2000, and 2005-2010, and it has information on commute modes used by people 16 aged and older - which is the minimum eligible driving age in California.
+The second supplementary dataset [Link](https://www.bts.gov/browse-statistical-products-and-data/state-transportation-statistics/commute-mode) has information on household income across counties.
 
 ## Key Analytical Findings
 ### 🔹 1. Geographical Trends
